@@ -1,0 +1,17 @@
+body{
+    background-image:url("img/background.jpg")
+}
+.container{
+    border: 5px solid white;
+    background-color:white;
+  }
+h3{
+    color:black;
+    text-align: center;
+}
+.gundam{
+    height:350px;
+    width:70px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}

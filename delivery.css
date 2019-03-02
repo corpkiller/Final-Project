@@ -1,0 +1,15 @@
+body{
+    background-image:url("img/background.jpg")
+}
+.container{
+    border: 5px solid white;
+    background-color:white;
+  }
+form{
+    
+    width:250px;
+    margin:auto;
+}
+h3{
+    text-align:center;
+}
